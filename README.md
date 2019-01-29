@@ -1,12 +1,6 @@
 # MongoDB University
 <br>
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ## Courses
 ### M001: MongoDB Basics
 - Learn the fundamentals of MongoDB
